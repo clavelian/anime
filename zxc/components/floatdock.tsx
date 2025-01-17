@@ -37,7 +37,7 @@ export function FloatingDockDemoMenu() {
       href: "#",
     },
     {
-      title: "Aceternity UI",
+      title: "zxc",
       icon: <Image src={PlantLogo} width={20} height={20} alt="Plant logo" />,
       href: "#",
     },
